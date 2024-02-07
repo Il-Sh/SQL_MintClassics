@@ -1,5 +1,5 @@
 # SQL_MintClassics
-Project Scenario
+**Project Scenario**
 
 Mint Classics Company, a retailer of classic model cars and other vehicles, is looking at closing one of their storage facilities. 
 
