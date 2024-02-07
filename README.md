@@ -14,6 +14,8 @@ To support a data-based business decision, they are looking for suggestions and 
 
  ## Goal
  
+ The goal is find answers to the following question in order to address the needs for inventory reduction and closing up of warehouses
+ 
  1) Where are items stored and if they were rearranged, could a warehouse be eliminated?
 
 2) How are inventory numbers related to sales figures? Do the inventory counts seem appropriate for each item?
