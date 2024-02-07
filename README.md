@@ -12,3 +12,10 @@ To support a data-based business decision, they are looking for suggestions and 
 
 3. Provide analytic insights and data-driven recommendations.
 
+ ##Goal
+ 
+ 1) Where are items stored and if they were rearranged, could a warehouse be eliminated?
+
+2) How are inventory numbers related to sales figures? Do the inventory counts seem appropriate for each item?
+
+3) Are we storing items that are not moving? Are any items candidates for being dropped from the product line?
