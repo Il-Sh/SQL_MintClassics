@@ -21,3 +21,8 @@ To support a data-based business decision, they are looking for suggestions and 
 2) How are inventory numbers related to sales figures? Do the inventory counts seem appropriate for each item?
 
 3) Are we storing items that are not moving? Are any items candidates for being dropped from the product line?
+
+## The following data are produced using SQL queries:
+###  Total quantity of items in each warehouse and calculation of total capacity
+| warehouseName | NumberOfProducts | TotalInventory | warehousePctCap | warehouseCode | TotalCapacity |
+
