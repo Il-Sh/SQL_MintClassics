@@ -52,7 +52,7 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 
 ###For Example: Products with High Inventory but Low Sales Volume in Warehouses B and C
 
-| productCode | productName |warehouseCode | quantityInStock | totalQuantityOrdered |
+| productCode | productName |warehouseCode | quantityInStock | quantityOrdered|
 | :--------:  | :----------:| :----------:| :-----------:| :-----------------:|
 |S10_1949|"1952 Alpine Renault 1300"|b|7305|961|
 |S10_4962|"1962 LanciaA Delta 16V"|b|6791|932|
@@ -65,7 +65,6 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 |S18_1984|"1995 Honda Civic"|b|9772|917|
 |S18_3482|"1976 Ford Gran Torino"|b|9127|915|
 |S18_3685|"1948 Porsche Type 356 Roadster"|b|8990|948|
-|S18_4027|"1970 Triumph Spitfire"|b|5545|945|
 |S24_1444|"1970 Dodge Coronet"|b|4074|976|
 |S24_1628|"1966 Shelby Cobra 427 S/C"|b|8197|915|
 |S24_2972|"1982 Lamborghini Diablo"|b|7723|912|
@@ -78,7 +77,6 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 |S18_2325|"1932 Model A Ford J-Coupe"|c|9354|957|
 |S18_2957|"1934 Ford V8 Coupe"|c|5649|985|
 |S18_3320|"1917 Maxwell Touring Car"|c|7913|992|
-|S18_4409|"1932 Alfa Romeo 8C2300 Spider Sport"|c|6553|866|
 |S18_4522|"1904 Buick Runabout"|c|8290|990|
 |S18_4668|"1939 Cadillac Limousine"|c|6645|995|
 |S24_1937|"1939 Chevrolet Deluxe Coupe"|c|7332|937|
