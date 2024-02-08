@@ -50,13 +50,12 @@ Due to the fact that the products stored in Warehouse D are very bulky, I questi
 
 Given that the goods in Warehouses B and C are of identical size, it makes practical sense to consolidate them. Warehouse B, offering a greater total capacity than Warehouse C, emerges as the optimal choice for this consolidation effort. To facilitate this process, it is necessary to clear out space in Warehouse B, which is currently taken up by products with low sales volumes. This examination should extend to similar items within Warehouse C as well. Thus, my strategy involves devising a plan to integrate these items into Warehouse B by decreasing the inventory of low-turnover products from both Warehouses B and C. It's imperative to acknowledge that Warehouse C's inventory includes vintage cars, which are known to increase in value and demand over time. Therefore, a thorough market analysis and assessment of each vehicle's potential is essential prior to undertaking any optimization measures. This approach ensures that the consolidation not only maximizes space utilization but also aligns with strategic sales and inventory management objectives.
 
+###For Example: Products with High Inventory but Low Sales Volume in Warehouses B and C
 
 | productCode | productName |warehouseCode | quantityInStock | totalQuantityOrdered |
 | :--------:  | :----------:| :----------:| :-----------:| :-----------------:|
 |S10_1949|"1952 Alpine Renault 1300"|b|7305|961|
-|S10_4757|"1972 Alfa Romeo GTA"|b|3252|1030|
 |S10_4962|"1962 LanciaA Delta 16V"|b|6791|932|
-|S12_1108|"2001 Ferrari Enzo"|b|3619|1019|
 |S12_3148|"1969 Corvair Monza"|b|6906|963|
 |S12_3380|"1968 Dodge Charger"|b|9123|925|
 |S12_3990|"1970 Plymouth Hemi Cuda"|b|5663|900|
@@ -75,8 +74,6 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 |S18_4933|"1957 Ford Thunderbird"|b|3209|767|
 |S24_1444|"1970 Dodge Coronet"|b|4074|976|
 |S24_1628|"1966 Shelby Cobra 427 S/C"|b|8197|915|
-|S24_2766|"1949 Jaguar XK 120"|b|2350|949|
-|S24_2840|"1958 Chevy Corvette Limited Edition"|b|2542|983|
 |S24_2972|"1982 Lamborghini Diablo"|b|7723|912|
 |S24_3191|"1969 Chevrolet Camaro Z28"|b|4695|870|
 |S24_3371|"1971 Alpine Renault 1600s"|b|7995|969|
@@ -87,24 +84,21 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 |S700_2824|"1982 Camaro Z28"|b|6934|997|
 |S18_1342|"1937 Lincoln Berline"|c|8693|1111|
 |S18_1367|"1936 Mercedes-Benz 500K Special Roadster"|c|8635|960|
-|S18_1749|"1917 Grand Touring Sedan"|c|2724|918|
 |S18_2325|"1932 Model A Ford J-Coupe"|c|9354|957|
 |S18_2949|"1913 Ford Model T Speedster"|c|4189|1038|
 |S18_2957|"1934 Ford V8 Coupe"|c|5649|985|
 |S18_3136|"18th Century Vintage Horse Carriage"|c|5992|907|
 |S18_3140|"1903 Ford Model A"|c|3913|883|
 |S18_3320|"1917 Maxwell Touring Car"|c|7913|992|
-|S18_3856|"1941 Chevrolet Special Deluxe Cabriolet"|c|2378|1076|
 |S18_4409|"1932 Alfa Romeo 8C2300 Spider Sport"|c|6553|866|
 |S18_4522|"1904 Buick Runabout"|c|8290|990|
 |S18_4668|"1939 Cadillac Limousine"|c|6645|995|
 |S24_1937|"1939 Chevrolet Deluxe Coupe"|c|7332|937|
-|S24_2022|"1938 Cadillac V-16 Presidential Limousine"|c|2847|955|
 |S24_3151|"1912 Ford Model T Delivery Wagon"|c|9173|991|
 |S24_3420|"1937 Horch 930V Limousine"|c|2902|884|
 |S24_3816|"1940 Ford Delivery Sedan"|c|6621|923|
 |S24_3969|"1936 Mercedes Benz 500k Roadster"|c|2081|824|
 |S24_4258|"1936 Chrysler Airflow"|c|4710|983|
-|S50_1341|"1930 Buick Marquette Phaeton"|c|7062|1074|
+
 
 
