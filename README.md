@@ -60,8 +60,6 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 |S12_3380|"1968 Dodge Charger"|b|9123|925|
 |S12_4675|"1969 Dodge Charger"|b|7323|992|
 |S18_1129|"1993 Mazda RX-7"|b|3975|947|
-|S18_1589|"1965 Aston Martin DB5"|b|9042|914|
-|S18_1889|"1948 Porsche 356-A Roadster"|b|8826|972|
 |S18_1984|"1995 Honda Civic"|b|9772|917|
 |S18_3482|"1976 Ford Gran Torino"|b|9127|915|
 |S18_3685|"1948 Porsche Type 356 Roadster"|b|8990|948|
@@ -70,12 +68,6 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 |S24_2972|"1982 Lamborghini Diablo"|b|7723|912|
 |S24_3191|"1969 Chevrolet Camaro Z28"|b|4695|870|
 |S24_3371|"1971 Alpine Renault 1600s"|b|7995|969|
-|S24_3432|"2002 Chevy Corvette"|b|9446|894|
-|S24_3856|"1956 Porsche 356A Coupe"|b|6600|1052|
-|S24_4048|"1992 Porsche Cayenne Turbo Silver"|b|6582|867|
-|S18_1367|"1936 Mercedes-Benz 500K Special Roadster"|c|8635|960|
-|S18_2325|"1932 Model A Ford J-Coupe"|c|9354|957|
-|S18_2957|"1934 Ford V8 Coupe"|c|5649|985|
 |S18_3320|"1917 Maxwell Touring Car"|c|7913|992|
 |S18_4522|"1904 Buick Runabout"|c|8290|990|
 |S18_4668|"1939 Cadillac Limousine"|c|6645|995|
