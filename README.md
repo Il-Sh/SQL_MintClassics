@@ -26,4 +26,4 @@ To support a data-based business decision, they are looking for suggestions and 
 ###  Total quantity of items in each warehouse and calculation of total capacity
 
 | warehouseName | NumberOfProducts | TotalInventory | warehousePctCap | warehouseCode | TotalCapacity |
-|  :---------:    |  :--------:| |  :---------:    |  :--------:| |  :---------:    |  :--------:|
+| :------------:| :---------------:| :-------------:|  :-------------:| :------------:|  :-----------:|
