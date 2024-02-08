@@ -32,4 +32,17 @@ To support a data-based business decision, they are looking for suggestions and 
 | West  | c | 24 |124880  | 50 | 249760 |
 | South | d | 23 |79380   | 75 | 105840 |
 
-From the data presented, it can be inferred that Warehouse D has the distinction of being the smallest in terms of both physical capacity and inventory volume.
+From the data presented, it can be deduced that Warehouse D is notably the smallest, both in terms of its capacity and the volume of inventory it holds. However, given that the data available does not detail the physical dimensions of each warehouse, I aim to gauge the size of each warehouse by analyzing the variety of product types stored within them.
+
+### Product Lines Stored at Each Warehouse
+
+|warehouseCode|warehouseName|productLine|
+| :------------:| :---------------:| :-------------:|
+| a | North | Motorcycles|
+| a | North | Planes |
+| b | East  | "Classic Cars" |
+| c | West  | "Vintage Cars" |
+| d | South | Ships |
+| d | South | Trains |
+| d | South | "Trucks and Buses" |
+
