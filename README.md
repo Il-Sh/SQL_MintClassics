@@ -31,3 +31,5 @@ To support a data-based business decision, they are looking for suggestions and 
 | East  | b | 38 |219183  | 67 | 327139 |
 | West  | c | 24 |124880  | 50 | 249760 |
 | South | d | 23 |79380   | 75 | 105840 |
+
+From the data presented, it can be inferred that Warehouse D has the distinction of being the smallest in terms of both physical capacity and inventory volume.
