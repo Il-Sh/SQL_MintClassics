@@ -53,7 +53,6 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 
 | productCode | productName |warehouseCode | quantityInStock | totalQuantityOrdered |
 | :--------:| :--------:| :----------:|| :-----------:| :-----------------:|
-|S10_1949|"1952 Alpine Renault 1300"|b|7305|961|
 
 
 
