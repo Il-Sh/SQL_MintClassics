@@ -24,5 +24,6 @@ To support a data-based business decision, they are looking for suggestions and 
 
 ## The following data are produced using SQL queries:
 ###  Total quantity of items in each warehouse and calculation of total capacity
-| warehouseName | NumberOfProducts | TotalInventory | warehousePctCap | warehouseCode | TotalCapacity |
 
+| warehouseName | NumberOfProducts | TotalInventory | warehousePctCap | warehouseCode | TotalCapacity |
+|  :---------:    |  :--------:| |  :---------:    |  :--------:| |  :---------:    |  :--------:|
