@@ -27,4 +27,7 @@ To support a data-based business decision, they are looking for suggestions and 
 
 | warehouseName | warehouseCode | NumberOfProducts | TotalInventory| warehousePctCap | TotalCapacity |
 | :------------:| :---------------:| :-------------:|  :-------------:| :------------:|  :-----------:|
-|
+| North | a | 25 | 131688 | 72 | 182900 |
+| East  | b | 38 |219183  | 67 | 327139 |
+| West  | c | 24 |124880  | 50 | 249760 |
+| South | d | 23 |79380   | 75 | 105840 |
