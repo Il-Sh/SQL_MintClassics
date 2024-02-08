@@ -50,7 +50,7 @@ Due to the fact that the products stored in Warehouse D are very bulky, I questi
 
 Given that the goods in Warehouses B and C are of identical size, it makes practical sense to consolidate them. Warehouse B, offering a greater total capacity than Warehouse C, emerges as the optimal choice for this consolidation effort. To facilitate this process, it is necessary to clear out space in Warehouse B, which is currently taken up by products with low sales volumes. This examination should extend to similar items within Warehouse C as well. Thus, my strategy involves devising a plan to integrate these items into Warehouse B by decreasing the inventory of low-turnover products from both Warehouses B and C. It's imperative to acknowledge that Warehouse C's inventory includes vintage cars, which are known to increase in value and demand over time. Therefore, a thorough market analysis and assessment of each vehicle's potential is essential prior to undertaking any optimization measures. This approach ensures that the consolidation not only maximizes space utilization but also aligns with strategic sales and inventory management objectives.
 
-###For Example: Products with High Inventory but Low Sales Volume in Warehouses B and C
+### For Example: Products with High Inventory but Low Sales Volume in Warehouses B and C
 
 | productCode | productName |warehouseCode | quantityInStock | quantityOrdered|
 | :--------:  | :----------:| :----------:| :-----------:| :-----------------:|
@@ -78,6 +78,7 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 |S24_3969|"1936 Mercedes Benz 500k Roadster"|c|2081|824|
 |S24_4258|"1936 Chrysler Airflow"|c|4710|983|
 
+### Unsellable Products for Potential Exclusion from the Product Range
 
 |productCode|productName|quantityInStock|totalSold|warehouseName|
 | :-------: | :--------:| :------------:| :------:| :----------:|
