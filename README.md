@@ -79,4 +79,7 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 |S24_4258|"1936 Chrysler Airflow"|c|4710|983|
 
 
+|productCode|productName|quantityInStock|totalSold|warehouseName|
+| :-------: | :--------:| :------------:| :------:| :----------:|
+|S18_3233|"1985 Toyota Supra"|7733|0|East|
 
