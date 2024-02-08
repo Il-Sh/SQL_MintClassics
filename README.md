@@ -46,3 +46,5 @@ From the data presented, it can be deduced that Warehouse D is notably the small
 | d | South | Trains |
 | d | South | "Trucks and Buses" |
 
+Due to the fact that the products stored in Warehouse D are very bulky, I question the feasibility of its closure and redistribution, just as with Warehouse A, which stores airplanes. Bulky and specific items, such as airplanes, require special storage conditions, making their relocation and redistribution less practical. Based on the table above, my decision would be to merge Warehouses B and C
+
