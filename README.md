@@ -52,7 +52,7 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 
 
 | productCode | productName |warehouseCode | quantityInStock | totalQuantityOrdered |
-| :--------:| :--------:| :----------:|| :-----------:| :-----------------:|
+| :--------:  | :----------:| :----------:| :-----------:| :-----------------:|
 
 
 
