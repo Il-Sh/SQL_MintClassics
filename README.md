@@ -79,7 +79,7 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 |S24_4258|"1936 Chrysler Airflow"|c|4710|983|
 
 
-### Unsellable Products for Potential Exclusion from the Product Range
+## Unsellable Products for Potential Exclusion from the Product Range
 
 |productCode|productName|quantityInStock|totalSold|warehouseName|
 | :-------: | :--------:| :------------:| :------:| :----------:|
@@ -87,7 +87,8 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 
 
 
-### Inventory Optimization: Analyzing Sales Performance
+
+## Inventory Optimization: Analyzing Sales Performance
 
 
 |productCode|productName|quantityInStock|totalSold|
