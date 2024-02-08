@@ -58,19 +58,14 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 |S10_4962|"1962 LanciaA Delta 16V"|b|6791|932|
 |S12_3148|"1969 Corvair Monza"|b|6906|963|
 |S12_3380|"1968 Dodge Charger"|b|9123|925|
-|S12_3990|"1970 Plymouth Hemi Cuda"|b|5663|900|
 |S12_4675|"1969 Dodge Charger"|b|7323|992|
 |S18_1129|"1993 Mazda RX-7"|b|3975|947|
 |S18_1589|"1965 Aston Martin DB5"|b|9042|914|
 |S18_1889|"1948 Porsche 356-A Roadster"|b|8826|972|
 |S18_1984|"1995 Honda Civic"|b|9772|917|
-|S18_2238|"1998 Chrysler Plymouth Prowler"|b|4724|986|
-|S18_2870|"1999 Indy 500 Monte Carlo SS"|b|8164|855|
-|S18_3233|"1985 Toyota Supra"|b|7733|0|
 |S18_3482|"1976 Ford Gran Torino"|b|9127|915|
 |S18_3685|"1948 Porsche Type 356 Roadster"|b|8990|948|
 |S18_4027|"1970 Triumph Spitfire"|b|5545|945|
-|S18_4933|"1957 Ford Thunderbird"|b|3209|767|
 |S24_1444|"1970 Dodge Coronet"|b|4074|976|
 |S24_1628|"1966 Shelby Cobra 427 S/C"|b|8197|915|
 |S24_2972|"1982 Lamborghini Diablo"|b|7723|912|
@@ -79,13 +74,9 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 |S24_3432|"2002 Chevy Corvette"|b|9446|894|
 |S24_3856|"1956 Porsche 356A Coupe"|b|6600|1052|
 |S24_4048|"1992 Porsche Cayenne Turbo Silver"|b|6582|867|
-|S24_4620|"1961 Chevrolet Impala"|b|7869|941|
-|S700_2824|"1982 Camaro Z28"|b|6934|997|
 |S18_1367|"1936 Mercedes-Benz 500K Special Roadster"|c|8635|960|
 |S18_2325|"1932 Model A Ford J-Coupe"|c|9354|957|
 |S18_2957|"1934 Ford V8 Coupe"|c|5649|985|
-|S18_3136|"18th Century Vintage Horse Carriage"|c|5992|907|
-|S18_3140|"1903 Ford Model A"|c|3913|883|
 |S18_3320|"1917 Maxwell Touring Car"|c|7913|992|
 |S18_4409|"1932 Alfa Romeo 8C2300 Spider Sport"|c|6553|866|
 |S18_4522|"1904 Buick Runabout"|c|8290|990|
