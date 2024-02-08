@@ -78,9 +78,33 @@ Given that the goods in Warehouses B and C are of identical size, it makes pract
 |S24_3969|"1936 Mercedes Benz 500k Roadster"|c|2081|824|
 |S24_4258|"1936 Chrysler Airflow"|c|4710|983|
 
+
 ### Unsellable Products for Potential Exclusion from the Product Range
 
 |productCode|productName|quantityInStock|totalSold|warehouseName|
 | :-------: | :--------:| :------------:| :------:| :----------:|
 |S18_3233|"1985 Toyota Supra"|7733|0|East|
 
+
+
+### Inventory Optimization: Analyzing Sales Performance
+
+
+|productCode|productName|quantityInStock|totalSold|
+| :-------: | :--------:| :------------:| :------:| 
+|S10_4962|"1962 LanciaA Delta 16V"|6791|932|
+|S12_1099|"1968 Ford Mustang"|68|933|
+|S18_1589|"1965 Aston Martin DB5"|9042|914|
+|S18_1889|"1948 Porsche 356-A Roadster"|8826|972|
+|S18_1984|"1995 Honda Civic"|9772|917|
+|S18_2238|"1998 Chrysler Plymouth Prowler"|4724|986|
+|S18_2248|"1911 Ford Town Car"|540|832|
+|S18_2319|"1964 Mercedes Tour Bus"|8258|1053|
+|S18_2325|"1932 Model A Ford J-Coupe"|9354|957|
+|S18_2581|"P-51-D Mustang"|992|917|
+|S24_3151|"1912 Ford Model T Delivery Wagon"|9173|991|
+|S32_1374|"1997 BMW F650 ST"|178|1014|
+
+The data highlights a pressing need for inventory optimization. For instance, there is a surplus of "1965 Aston Martin DB5" cars (9042 units, 10 times more than the number sold), indicating potential overstock. Conversely, "1968 Ford Mustang" boasts strong sales (933 units sold), but with insufficient inventory (68 units), underscoring the necessity for replenishment to meet demand effectively.
+
+This analysis underscores the importance of synchronizing inventory levels with sales data to improve operational efficiency and seize revenue opportunities.
